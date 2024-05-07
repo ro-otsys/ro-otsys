@@ -1,5 +1,5 @@
 ### Sistemas
-<img align='right' position='absolute' src='https://media1.tenor.com/m/qZAcCloo3oQAAAAC/night.gif' width='160'>
+<img align='right' src='https://media1.tenor.com/m/qZAcCloo3oQAAAAC/night.gif' width='160'>
 
 ![Linux/GNU](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
