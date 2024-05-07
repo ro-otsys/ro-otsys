@@ -1,7 +1,6 @@
+### Sistemas
 <img align='right' position='absolute' src='https://media1.tenor.com/m/qZAcCloo3oQAAAAC/night.gif' width='160'>
 
-
-### Sistemas
 ![Linux/GNU](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 
@@ -11,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-        
+
 ### Ferramentas
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
