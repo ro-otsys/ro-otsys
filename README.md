@@ -6,7 +6,9 @@ Sou **profissional de T.I** com foco em **infraestrutura, redes e sistemas**.
 Tenho experiência prática em **virtualização, administração de servidores Linux, segurança da informação e DevOps**.  
 Além disso, atuo como **desenvolvedor**, criando soluções para automação, plugins e integrações distribuídas.  
 
-<!-- --- -->
+---
+
+<br>
 
 ## 🚀 Tecnologias & Stack
 
