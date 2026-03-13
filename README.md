@@ -1,6 +1,5 @@
-### Sistemas
-<img align='right' src='https://media1.tenor.com/m/qZAcCloo3oQAAAAC/night.gif' width='160'>
-<!-- <img align="left" src="https://media1.tenor.com/m/0pnE5WsMJpYAAAAd/zxc.gif" width="22%" style="border-radius:12px;"> -->
+<!-- <img align='right' src='https://media1.tenor.com/m/qZAcCloo3oQAAAAC/night.gif' width='160'> -->
+<img align="left" src="https://media1.tenor.com/m/qZAcCloo3oQAAAAC/night.gif" width="22%" style="border-radius:12px;">
 
 # 👋 Olá, eu sou o Gustavo  
 Sou **profissional de T.I** com foco em **infraestrutura, redes e sistemas**.  
