@@ -1,23 +1,72 @@
 ### Sistemas
 <img align='right' src='https://media1.tenor.com/m/qZAcCloo3oQAAAAC/night.gif' width='160'>
+<!-- <img align="left" src="https://media1.tenor.com/m/0pnE5WsMJpYAAAAd/zxc.gif" width="22%" style="border-radius:12px;"> -->
 
-![Linux/GNU](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
+# 👋 Olá, eu sou o Gustavo  
+Sou **profissional de T.I** com foco em **infraestrutura, redes e sistemas**.  
+Tenho experiência prática em **virtualização, administração de servidores Linux, segurança da informação e DevOps**.  
+Além disso, atuo como **desenvolvedor**, criando soluções para automação, plugins e integrações distribuídas.  
 
-### Linguagens
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+---
 
-### Ferramentas
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
-![Gitea](https://img.shields.io/badge/-Gitea-black?style=flat-square&logo=Gitea)
+## 🚀 Tecnologias & Stack
+
+**Infraestrutura & DevOps**  
+![Proxmox](https://img.shields.io/badge/proxmox-E57000?style=flat&logo=proxmox&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![Grafana](https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white) 
+![Nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)  
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white) 
+![WireGuard](https://img.shields.io/badge/wireguard-88171A?style=flat&logo=wireguard&logoColor=white) 
+
+**Linguagens & Dev**  
+![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) 
+![Java](https://img.shields.io/badge/java-3B7498?style=flat&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Sistemas Operacionais**  
+![Arch Linux](https://img.shields.io/badge/arch_linux-1793D1?style=flat&logo=arch-linux&logoColor=white) 
+![Debian](https://img.shields.io/badge/debian-A81D33?style=flat&logo=debian&logoColor=white) 
+![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+---
+
+## 🛠️ Competências Técnicas
+
+- **Administração de sistemas Linux** (Debian, Ubuntu, Arch)  
+- **Virtualização e Cloud** com Proxmox VE, VMs e containers Docker  
+- **Redes e Segurança**: firewall (pfSense), VPNs, NAT, DMZ, proxies reversos  
+- **Monitoramento e observabilidade** com Grafana, métricas customizadas  
+- **Gerenciamento de serviços web**: Mailcow, Nextcloud, Nginx Proxy Manager  
+- **Automação e DevOps**: CI/CD, pipelines de deploy, orquestração de serviços  
+- **Desenvolvimento**: plugins, bots, integrações distribuídas e sistemas internos  
+
+---
+
+## 💡 O que já implementei
+
+- Configuração de **infraestruturas completas de rede isolada** com IPv4 fixo e DMZ.  
+- **Hospedagem e gerenciamento de serviços web** (DNS, cloud storage, proxies).  
+- **Pipelines de automação** para deploy de aplicações em containers.  
+- **Soluções de monitoramento** para ambientes distribuídos.  
+- **Ferramentas e integrações customizadas**: sistemas de filas, gestão de permissões, automação de mensagens e plugins para servidores.  
+- **Simulações de ambientes críticos** para estudos de segurança e resiliência.  
+
+---
+
+## 🎯 Objetivo Profissional
+Atuar em **infraestrutura, redes e sistemas**, aplicando meus conhecimentos em  
+**segurança, automação e cloud**, mas também **desenvolvendo soluções próprias**  
+quando houver necessidade de integração, otimização ou inovação.
+
+---
+
+## 📫 Contato
+✉️ [gustavo@astronix.com.br](mailto:gustavo@astronix.com.br)  
+📍 Caruaru - PE  
+
+---
 
 <p align="center">
 
