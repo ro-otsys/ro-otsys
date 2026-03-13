@@ -8,8 +8,6 @@ Além disso, atuo como **desenvolvedor**, criando soluções para automação, p
 
 ---
 
-<br>
-
 ## 🚀 Tecnologias & Stack
 
 **Infraestrutura & DevOps**  
