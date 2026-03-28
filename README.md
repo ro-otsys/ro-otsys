@@ -73,7 +73,7 @@ quando houver necessidade de integração, otimização ou inovação.
 
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ro-otsys&layout=compact&hide_border=true&locale=pt-br&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ro-otsys&theme=darcula&hide_border=true&locale=pt-br&background=FFFFFF00">
+  <!-- <img src ="https://github-readme-streak-stats.herokuapp.com?user=ro-otsys&theme=darcula&hide_border=true&locale=pt-br&background=FFFFFF00"> -->
   
   <br>
   <br>
