@@ -69,7 +69,7 @@ quando houver necessidade de integração, otimização ou inovação.
 
 <p align="center">
 
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ro-otsys&show_icons=true&count_private=true&theme=darcula&hide_border=true&locale=pt-br&hide=issues,contribs&bg_color=00000000">
+  <img src="https://streak-stats.demolab.com?user=ro-otsys&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ro-otsys&layout=compact&hide_border=true&locale=pt-br&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   
@@ -81,8 +81,3 @@ quando houver necessidade de integração, otimização ou inovação.
   <img align="center" src="https://komarev.com/ghpvc/?username=ro-otsys&label=Visitas&color=9141ac&style=flat" height="25" width="90" alt="ro-otsys" />
   
 </p>
-
-<!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=ro-otsys&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=ro-otsys&repo=pixel-weather">
-</p> -->
