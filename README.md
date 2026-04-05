@@ -76,9 +76,19 @@ quando houver necessidade de integração, otimização ou inovação.
   <br>
 
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ro-otsys&layout=compact&hide_border=true&locale=pt-br&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+
+###
+
+###
   
   <br>
   
   <img align="center" src="https://komarev.com/ghpvc/?username=ro-otsys&label=Visitas&color=9141ac&style=flat" height="25" width="90" alt="ro-otsys" />
   
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ro-otsys/ro-otsys/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ro-otsys/ro-otsys/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ro-otsys/ro-otsys/output/pacman-contribution-graph.svg">
+</picture>
