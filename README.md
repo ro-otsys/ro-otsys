@@ -86,9 +86,3 @@ quando houver necessidade de integração, otimização ou inovação.
   <img align="center" src="https://komarev.com/ghpvc/?username=ro-otsys&label=Visitas&color=9141ac&style=flat" height="25" width="90" alt="ro-otsys" />
   
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ro-otsys/ro-otsys/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ro-otsys/ro-otsys/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ro-otsys/ro-otsys/output/pacman-contribution-graph.svg">
-</picture>
