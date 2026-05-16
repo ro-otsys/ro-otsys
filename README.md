@@ -1,5 +1,10 @@
 <!-- <img align='right' src='https://media1.tenor.com/m/qZAcCloo3oQAAAAC/night.gif' width='160'> -->
-<img align="left" src="https://media1.tenor.com/m/qZAcCloo3oQAAAAC/night.gif" width="25%" style="border-radius:12px;">
+<p align="center">
+  <img
+    src="https://media1.tenor.com/m/qZAcCloo3oQAAAAC/night.gif"
+    width="140"
+  />
+</p>
 
 # 👋 Olá, eu sou o Gustavo  
 Sou **profissional de T.I** com foco em **infraestrutura, redes e sistemas**.  
@@ -69,16 +74,13 @@ quando houver necessidade de integração, otimização ou inovação.
 
 <p align="center">
 
-  <img src="https://streak-stats.demolab.com?user=ro-otsys&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
-  
-  <!-- <img src ="https://github-readme-streak-stats.herokuapp.com?user=ro-otsys&theme=darcula&hide_border=true&locale=pt-br&background=FFFFFF00"> -->
-  
-  <br>
+  <img
+    width="54%"
+    src="https://ghstats.dev/api/card?username=ro-otsys&theme=catppuccin&hide_title=true&border_radius=8&hide_border=true"
+  />
+  <img
+    width="42%"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ro-otsys&layout=compact&hide_border=true&locale=pt-br&theme=catppuccin&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI"
+  />
 
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ro-otsys&layout=compact&hide_border=true&locale=pt-br&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  
-  <br>
-  
-  <img align="center" src="https://komarev.com/ghpvc/?username=ro-otsys&label=Visitas&color=9141ac&style=flat" height="25" width="90" alt="ro-otsys"/>
-  
 </p>
